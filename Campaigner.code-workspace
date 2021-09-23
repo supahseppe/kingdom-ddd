@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+        "path": "."
+    },
+    {
+        "path": "../laravel-beyond-crud"
+    },
+    {
+        "path": "../campaigner-dep"
+    }
+],
+  "settings": {}
+}
